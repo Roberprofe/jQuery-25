@@ -133,12 +133,3 @@ El proyecto utiliza datos de ejemplo para las demostraciones de AJAX:
 4. **Animaciones**: Usa los botones para probar efectos de desvanecimiento, deslizamiento y animaciones personalizadas.
 
 5. **AJAX**: Carga datos simulados al hacer clic en "Cargar datos".
-
-## ✉️ Contacto
-
-Para cualquier consulta sobre este proyecto educativo, por favor contacta a:
-ejemplo@email.com
-
----
-
-Creado con ❤️ para la enseñanza de jQuery - 2025
